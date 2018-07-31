@@ -21,10 +21,11 @@ h2 {
   color: White;
 }
 
-embed{
+video{
   width:750px;
   height: 750px;
 }
+
 #description {
   font-size: 21px;
   color: Gray;
