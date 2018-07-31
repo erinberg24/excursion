@@ -1,0 +1,36 @@
+body {
+  font-family: Verdana;
+  font-weight: normal;
+  text-align: center;
+  background-color: black;
+}
+
+h1 {
+  font-size: 50px;
+  color: White;
+}
+
+a {
+  color: aquamarine;
+  font-size: 16px;
+}
+
+h2 {
+  font-weight: 300;
+  font-size: 42px;
+  color: White;
+}
+
+embed{
+  width:750px;
+  height: 750px;
+}
+#description {
+  font-size: 21px;
+  color: Gray;
+}
+
+#extag {
+  text-align: right;
+  color: Gray;
+}
